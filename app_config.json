@@ -1,0 +1,26 @@
+{
+  "app_name": "Data Masking System",
+  "version": "1.0.0",
+  "release_date": "2025-11-08",
+  "description": "A Streamlit-based tool for detecting and masking sensitive information in CSV files (email, phone, PAN, Aadhar, etc.) using Redact, Partial, or Hash modes.",
+  "technologies": [
+    "Python",
+    "Streamlit",
+    "Pandas",
+    "Hashlib"
+  ],
+  "theme": {
+    "mode": "dark",
+    "accent_color": "#2563EB",
+    "success_color": "#22C55E",
+    "background": "#0E1117"
+  },
+  "masking_modes": [
+    "Redact",
+    "Partial",
+    "Hash"
+  ],
+  "default_encoding": "latin-1",
+  "github_repo": "https://github.com/YOUR-USERNAME/CSV-Sensitive-Data-Masker",
+  "local_processing": true
+}
