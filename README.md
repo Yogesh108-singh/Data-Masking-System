@@ -69,7 +69,8 @@ Download the clean, privacy-safe CSV.
 
 📸 Screenshot 
 
-<img width="1366" height="728" alt="Data Masking System and 3 more pages - Profile 1 - Microsoft​ Edge 09-11-2025 16_23_51" src="https://github.com/user-attachments/assets/70825a47-b9cd-4d5a-8c19-f3c95604cf46" />
+<img width="714" height="616" alt="m6tpg3up" src="https://github.com/user-attachments/assets/e4fafe0c-eefb-49c5-ae47-33b2cbce2fab" />
+
 
 
 🔒 Data Privacy Note
