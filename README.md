@@ -1,4 +1,4 @@
-🛡️ CSV Sensitive Data Masker
+🛡️ Data Masking System
 
 A modern Streamlit web application that helps you detect and mask sensitive data (like emails, phone numbers, PAN, SSN, etc.) in CSV files to ensure data privacy and regulatory compliance — all with a clean dark theme interface.
 
@@ -67,35 +67,16 @@ Preview your masked data.
 
 Download the clean, privacy-safe CSV.
 
-📸 Screenshot (Example)
+📸 Screenshot 
 
-(Add your own once the app runs — optional)
+<img width="1366" height="728" alt="Data Masking System and 3 more pages - Profile 1 - Microsoft​ Edge 09-11-2025 16_23_51" src="https://github.com/user-attachments/assets/0f050986-7475-484d-96d7-6761f4ddcf44" />
 
-CSV Sensitive Data Masker (Dark Mode)
--------------------------------------
-Upload File ➜ Detect ➜ Mask ➜ Download
 
 🔒 Data Privacy Note
 
 This tool performs all operations locally on your device.
 Your data is never uploaded or shared anywhere outside your system.
 
-👨‍💻 Author
 
-👤 Yogesh Singh Kulegi
-💼 Developer | 💡 Data Privacy Enthusiast
-📧 [YourEmail@example.com
-] (optional)
-🌐 [LinkedIn / Portfolio link] (optional)
 
-🏷️ License
 
-This project is licensed under the MIT License — you are free to use, modify, and distribute it.
-See the LICENSE
- file for more details.
-
-⭐ Support the Project
-
-If you like this project, give it a ⭐ on GitHub
-!
-Your support motivates further open-source contributions. 🙌
