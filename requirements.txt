@@ -1,0 +1,9 @@
+# Core dependencies for the Streamlit CSV Masker App
+
+streamlit==1.39.0
+pandas==2.2.3
+altair==5.4.1
+pyarrow==17.0.0
+numpy==2.1.1
+watchdog==4.0.1
+hashlib
