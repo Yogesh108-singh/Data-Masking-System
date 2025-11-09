@@ -69,7 +69,7 @@ Download the clean, privacy-safe CSV.
 
 📸 Screenshot 
 
-<img width="1366" height="728" alt="Data Masking System and 3 more pages - Profile 1 - Microsoft​ Edge 09-11-2025 16_23_51" src="https://github.com/user-attachments/assets/0f050986-7475-484d-96d7-6761f4ddcf44" />
+<img width="1366" height="728" alt="Data Masking System and 3 more pages - Profile 1 - Microsoft​ Edge 09-11-2025 16_23_51" src="https://github.com/user-attachments/assets/70825a47-b9cd-4d5a-8c19-f3c95604cf46" />
 
 
 🔒 Data Privacy Note
@@ -77,6 +77,13 @@ Download the clean, privacy-safe CSV.
 This tool performs all operations locally on your device.
 Your data is never uploaded or shared anywhere outside your system.
 
-
+🧠 Real-World Benefits of This Project
+Benefit	Description
+🔒 Data Privacy	Keeps personal and sensitive information (like financial or medical data) safe before it’s shared or analyzed.
+⚖️ Compliance	Makes it easier for organizations to meet major data protection laws such as GDPR, HIPAA, PDPA, and SOX.
+🧰 Usability	Designed for everyone — no coding needed. Just upload your file, click a button, and download the protected version.
+📁 Automation	Quickly anonymizes large CSV files without any manual work, saving time and effort.
+🚫 Error-Free	Minimizes the risk of human mistakes that could cause accidental data leaks.
+🌐 Cross-Industry Use	Useful across many sectors including finance, healthcare, education, retail, HR, and data analytics.
 
 
