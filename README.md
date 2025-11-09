@@ -32,7 +32,7 @@ HTML + CSS	For styling and layout customization
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/CSV-Sensitive-Data-Masker.git
+git clone https://github.com/Yogesh108-singh/Data-Masking-System.git
 cd CSV-Sensitive-Data-Masker
 
 
