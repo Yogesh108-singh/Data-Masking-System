@@ -1,0 +1,62 @@
+
+# Python General
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+MANIFEST
+
+
+# Streamlit
+
+.streamlit/
+# Sometimes Streamlit stores local configs or session states here
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+
+# Virtual Environments
+
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+env_old/
+venv_old/
+
+
+# IDEs and Editors
+
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+
+
+
+
+# CSV / Data Files
+
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite3
+
+
+
